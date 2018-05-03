@@ -229,4 +229,3 @@
      ]
  });
 
- chart.panelsSettings.recalculateToPercents = "never";
